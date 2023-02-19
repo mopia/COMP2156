@@ -4,17 +4,17 @@
   "description": "hello world",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+    "test": "echo \"Warning: No tests created yet.\""
+ },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mopia/COMP2156.git"
+    "url": "git+https://github.com/jayoharedee/comp3104.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "jeanleon",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mopia/COMP2156/issues"
+    "url": "https://github.com/jayoharedee/comp3104/issues"
   },
-  "homepage": "https://github.com/mopia/COMP2156#readme"
+  "homepage": "https://github.com/jayoharedee/comp3104#readme"
 }
