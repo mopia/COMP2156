@@ -1,0 +1,89 @@
+[33mcommit 7a922cb00d38044f3a0ff76d997e6f7de0d6a9a4[m[33m ([m[1;36mHEAD -> [m[1;32mdep-inclusions[m[33m)[m
+Author: jean-leon Mopia <jean-leon.mopia@georgebrown.ca>
+Date:   Sun Feb 26 04:33:30 2023 -0500
+
+    add public and src folder
+
+[33mcommit 9388411db9d58153fcb96ad7b5d8c2632df5bbb2[m
+Author: jean-leon Mopia <jean-leon.mopia@georgebrown.ca>
+Date:   Sun Feb 26 03:40:46 2023 -0500
+
+    code fix
+
+[33mcommit 21ee5583e938fe600dec93e70eb3ed77aa80e8f3[m
+Author: jean-leon Mopia <jean-leon.mopia@georgebrown.ca>
+Date:   Sun Feb 26 02:57:29 2023 -0500
+
+    added project dependencies to our package.json
+
+[33mcommit 673f2f68315ab0f5d444aab1829eb24844286332[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: jean-leon Mopia <jean-leon.mopia@georgebrown.ca>
+Date:   Mon Feb 20 03:37:13 2023 -0500
+
+    github is added
+
+[33mcommit a6e9072403de18318d2dfa19c58c89c0dc9b473b[m
+Author: jean-leon Mopia <jean-leon.mopia@georgebrown.ca>
+Date:   Sun Feb 19 21:30:14 2023 -0500
+
+    build folder added
+
+[33mcommit 7aaa27e68adc52fb5cf97ac63b25f0aa15b0a510[m
+Author: jean-leon Mopia <jean-leon.mopia@georgebrown.ca>
+Date:   Sun Feb 19 17:01:46 2023 -0500
+
+    node project created
+
+[33mcommit 26938e5012527340b65fc9213c77176c620f6749[m
+Author: jean-leon Mopia <jean-leon.mopia@georgebrown.ca>
+Date:   Sun Feb 19 00:48:23 2023 -0500
+
+    travis CI files updated again
+
+[33mcommit 67f3d1defba560a291bdbacd6254d9d5f76a2ec0[m
+Author: jean-leon Mopia <jean-leon.mopia@georgebrown.ca>
+Date:   Sat Feb 18 23:32:34 2023 -0500
+
+    travis CI file updated again
+
+[33mcommit ec28c3bff2478107a302208e9fc0dadfea057af5[m
+Author: jean-leon Mopia <jean-leon.mopia@georgebrown.ca>
+Date:   Sat Feb 18 23:26:09 2023 -0500
+
+    travis CI file updated
+
+[33mcommit 5838235ffb1e12acf2649599d6ef9622c5d9cfce[m
+Author: jean-leon Mopia <jean-leon.mopia@georgebrown.ca>
+Date:   Sat Feb 18 23:17:56 2023 -0500
+
+    travis CI file updated
+
+[33mcommit 6346fc00bfb801a381ebf19051b16a2138a99ca9[m
+Author: jean-leon Mopia <jean-leon.mopia@georgebrown.ca>
+Date:   Sat Feb 18 23:07:00 2023 -0500
+
+    travis CI file updated
+
+[33mcommit 42b854027685e883f55d1026ca974bd688b681b0[m
+Author: mopia <jean-leon.mopia@georgebrown.ca>
+Date:   Fri Feb 10 02:54:43 2023 -0500
+
+    travisCI file updated
+
+[33mcommit 83947b192e87df27df3e2d5ecd24d19d9c2d48e5[m
+Author: mopia <jean-leon.mopia@georgebrown.ca>
+Date:   Mon Feb 6 15:56:45 2023 -0500
+
+    yml added
+
+[33mcommit ba620cbdfb87d90d0ffe36af86848f666813d6ad[m
+Author: mopia <jean-leon.mopia@georgebrown.ca>
+Date:   Mon Jan 23 16:55:06 2023 -0500
+
+    added header for readme file
+
+[33mcommit 4e32eddcbdc1de85f12ca91b15f171200dc9b712[m
+Author: mopia <jean-leon.mopia@georgebrown.ca>
+Date:   Mon Jan 23 16:41:19 2023 -0500
+
+    initial commit
