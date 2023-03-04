@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jayoharedee/comp3104/static/css/main.7a7d29af.css",
+    "main.js": "/jayoharedee/comp3104/static/js/main.f79338b9.js",
+    "index.html": "/jayoharedee/comp3104/index.html",
+    "main.7a7d29af.css.map": "/jayoharedee/comp3104/static/css/main.7a7d29af.css.map",
+    "main.f79338b9.js.map": "/jayoharedee/comp3104/static/js/main.f79338b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a7d29af.css",
+    "static/js/main.f79338b9.js"
+  ]
+}
